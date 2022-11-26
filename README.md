@@ -21,5 +21,6 @@ My name is **Keziah Prado** and I'm a brazilian (🇧🇷) dev. I'm currently wo
 
 ____
 ![@pradokez's Holopin board](https://holopin.me/pradokez)
-[![Keziah Prado's github stats](https://github-readme-stats.vercel.app/api?username=pradokez&theme=highcontrast&show_icons=true&count_private=true)](https://github.com/pradokez)
+
+[![Keziah Prado's github stats](https://github-readme-stats.vercel.app/api?username=pradokez&theme=highcontrast&hide_border=true&show_icons=true&count_private=true)](https://github.com/pradokez)
 
