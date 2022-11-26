@@ -4,7 +4,6 @@
 
 My name is **Keziah Prado** and I'm a brazilian (🇧🇷) dev. I'm currently working at [Gupy](https://gupy.io) as **Software Engineer Assistant** and contributing to some **Open Source Projects**. I'm studying towards a bachelor degree in Game Development and I like to spend my free time gaming and _trying to_ cook.
 ### My toolbox:
-
 <div style="display: inline_block"><br>
  <img height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   <img height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /><img height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -22,5 +21,5 @@ My name is **Keziah Prado** and I'm a brazilian (🇧🇷) dev. I'm currently wo
 
 ____
 ![@pradokez's Holopin board](https://holopin.me/pradokez)
-[![Keziah Prado's github stats](https://github-readme-stats.vercel.app/api?username=pradokez&theme=dark&show_icons=true&count_private=true)](https://github.com/pradokez)
+[![Keziah Prado's github stats](https://github-readme-stats.vercel.app/api?username=pradokez&theme=highcontrast&show_icons=true&count_private=true)](https://github.com/pradokez)
 
