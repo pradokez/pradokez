@@ -2,7 +2,7 @@
 
     Junior software engineer / Game designer enthusiast / Terrible at drawing
 
-My name is **Keziah Prado** and I'm a brazilian (🇧🇷) dev. I'm currently working at [Gupy](https://gupy.io) as **Software Engineer Assistant** and contributing to some **Open Source Projects**. I'm studying towards a bachelor degree in Game Development and I like to spend my free time gaming and _trying to_ cook.
+My name is **Keziah Prado** and I'm a brazilian (🇧🇷) dev. I'm currently working at [Gupy](https://gupy.io) as **Software Engineer Assistant** and contributing to some **Open Source Projects**. I have a bachelor degree in Game Development and I like to spend my free time gaming and _trying to_ cook.
 ### My toolbox:
 <div style="display: inline_block"><br>
  <img height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
